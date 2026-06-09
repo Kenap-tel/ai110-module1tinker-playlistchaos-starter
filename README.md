@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playlist Chaos
 
 Your AI assistant tried to build a smart playlist generator. The app runs, but some of the behavior is unpredictable. Your task is to explore the app, investigate the code, and use an AI assistant to debug and improve it.
@@ -111,3 +112,6 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+=======
+# ai110-module1tinker-playlistchaos-starter
+>>>>>>> 8e421312f860252b19e50e74be2bc60ca7e3ea4e
